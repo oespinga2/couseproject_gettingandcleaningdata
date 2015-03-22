@@ -18,7 +18,7 @@ After, to keep only variables for the mean and std I used function *grep* to loc
 
 Finally, to generate the independent tiny dataset I used the function *cast* to manipulate the dataset into a more readable format making a distinction between the different variables analyzed - average of mean- and -average of std- variables.
 
-## Out file (step 5)
+## Output file (step 5)
 The scrip generates a final dataset "project_dataset_step5.txt" which contains the following variables:
 
 * "dataset": An identificator of the type of dataset where the subject belongs. Values "train" or "test"       

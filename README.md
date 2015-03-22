@@ -4,8 +4,8 @@ repo for the data science specialization - getting and cleaning data course proj
 ## Contents
 This repo contains two files
 
-*run_analysis.R
-*CodeBook.md
+* run_analysis.R
+* CodeBook.md
 
 
 ### run_analysis.R
